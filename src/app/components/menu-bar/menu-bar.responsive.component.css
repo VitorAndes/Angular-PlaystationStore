@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+    .menu-bar__item > ul > li > a{
+        font-size: 10px;
+    }
+}
